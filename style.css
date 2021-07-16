@@ -3,6 +3,7 @@
 	padding: 0;
 	margin: 0;
 	box-sizing: border-box;
+
 }
 html {
 	font-size: 10px;
@@ -327,7 +328,15 @@ p {
 /* End Services Section */
 
 /* Projects section */
+
+#projects{
+  background: #222;
+  background-size: cover;
+}
+
 #projects .projects {
+  background: #222;
+  background-size: cover;
 	flex-direction: column;
 	max-width: 1200px;
 	margin: 0 auto;
@@ -335,6 +344,7 @@ p {
 }
 #projects .projects-header h1 {
 	margin-bottom: 50px;
+  color: #fff;
 }
 #projects .all-projects {
 	display: flex;
@@ -371,6 +381,7 @@ p {
 	font-size: 1.8rem;
 	font-weight: 500;
 	margin-top: 10px;
+  color: #fff;
 }
 #projects .project-info p {
 	color: white;
@@ -414,13 +425,20 @@ p {
 #about .col-right {
 	width: 100%;
 }
+
+#about .col-right h1{
+  color: #fff;
+}
+
 #about .col-right h2 {
+  color: #fff;
 	font-size: 1.8rem;
 	font-weight: 500;
 	letter-spacing: 0.2rem;
 	margin-bottom: 10px;
 }
 #about .col-right p {
+  color: #fff;
 	margin-bottom: 20px;
 }
 #about .col-right .cta {
@@ -454,11 +472,17 @@ p {
 	margin: 0 auto;
 	width: 90%;
 }
+
+#contact .contact container .h1{
+  color: #fff;
+}
+
 #contact .contact-items {
 	/* max-width: 400px; */
 	width: 100%;
 }
 #contact .contact-item {
+  background: #fff;
 	width: 80%;
 	padding: 20px;
 	text-align: center;
@@ -479,6 +503,7 @@ p {
 	width: 70px;
 	margin: 0 auto;
 	margin-bottom: 10px;
+  color: #fff
 }
 #contact .contact-info h1 {
 	font-size: 2.5rem;
@@ -494,41 +519,41 @@ p {
 
 /* Footer */
 #footer {
-	background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+    background-image: linear-gradient(60deg, #222 0%, #222 100%);
 }
 #footer .footer {
-	min-height: 200px;
-	flex-direction: column;
-	padding-top: 50px;
-	padding-bottom: 10px;
+    min-height: 200px;
+    flex-direction: column;
+    padding-top: 50px;
+    padding-bottom: 10px;
 }
 #footer h2 {
-	color: white;
-	font-weight: 500;
-	font-size: 1.8rem;
-	letter-spacing: 0.1rem;
-	margin-top: 10px;
-	margin-bottom: 10px;
+    color: white;
+    font-weight: 500;
+    font-size: 1.8rem;
+    letter-spacing: 0.1rem;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 #footer .social-icon {
-	display: flex;
-	margin-bottom: 30px;
+    display: flex;
+    margin-bottom: 30px;
 }
 #footer .social-item {
-	height: 50px;
-	width: 50px;
-	margin: 0 5px;
+    height: 50px;
+    width: 50px;
+    margin: 0 5px;
 }
 #footer .social-item img {
-	filter: grayscale(1);
-	transition: 0.3s ease filter;
+    filter: grayscale(1);
+    transition: 0.3s ease filter;
 }
 #footer .social-item:hover img {
-	filter: grayscale(0);
+    filter: grayscale(0);
 }
 #footer p {
-	color: white;
-	font-size: 1.3rem;
+    color: white;
+    font-size: 1.3rem;
 }
 /* End Footer */
 
