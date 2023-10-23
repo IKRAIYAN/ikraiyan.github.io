@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e0f41ee9.css",
+    "main.js": "/static/js/main.9fd414e6.js",
+    "static/media/rai-lofi.png": "/static/media/rai-lofi.7d01b3788f8db2e77aed.png",
+    "static/media/main-pfp-blue.png": "/static/media/main-pfp-blue.d4899a30385165eb5cef.png",
+    "static/media/project6.jpg": "/static/media/project6.95c1885bb2846b94b21a.jpg",
+    "static/media/project12.png": "/static/media/project12.1773739a30eacf65ee97.png",
+    "static/media/project4.png": "/static/media/project4.d0c17ef411293c9cdbb6.png",
+    "static/media/project5.jpg": "/static/media/project5.66988c12898db0ab44fa.jpg",
+    "static/media/irfan-khan-raiyan-cv.pdf": "/static/media/irfan-khan-raiyan-cv.da08a8c95cb110799d9e.pdf",
+    "static/media/profile.png": "/static/media/profile.56d8c91c1ed8744ab96a.png",
+    "static/media/light.png": "/static/media/light.a8793b61960417a81c00.png",
+    "static/media/project11.png": "/static/media/project11.2226e97056b481db0196.png",
+    "static/media/main-pfp-blue-transparent.png": "/static/media/main-pfp-blue-transparent.39f293b929a706963427.png",
+    "static/media/project8.png": "/static/media/project8.509ada57977068d62788.png",
+    "static/media/project7.jpg": "/static/media/project7.901d87f83e105e9c0027.jpg",
+    "static/media/project1final.jpg": "/static/media/project1final.6bfec216a21ff9e177e5.jpg",
+    "static/media/main-logo.png": "/static/media/main-logo.7bb265dfe5f57e93fc54.png",
+    "static/media/savorhub.png": "/static/media/savorhub.ebebd30ca0a04a9fef8f.png",
+    "static/media/project10.png": "/static/media/project10.b982da544a6f4d0d3303.png",
+    "index.html": "/index.html",
+    "main.e0f41ee9.css.map": "/static/css/main.e0f41ee9.css.map",
+    "main.9fd414e6.js.map": "/static/js/main.9fd414e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0f41ee9.css",
+    "static/js/main.9fd414e6.js"
+  ]
+}
